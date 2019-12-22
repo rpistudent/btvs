@@ -1,6 +1,6 @@
 from selenium import webdriver
 from selenium.common.exceptions import NoAlertPresentException
-from functions_2 import *
+from functions import *
 
 url = "https://dark-solace.org/elysian/index.php"#'http://google.com'
 
